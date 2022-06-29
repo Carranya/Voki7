@@ -1,1 +1,0 @@
-<?php $modul = array("chinesisch"); ?>
