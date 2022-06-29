@@ -1,0 +1,1 @@
+<?php $liste = array(array("ich", "wo"), array("du", "ni"), array("er", "ta"), array("wir", "women"), array("ihr", "nimen"), array("sie (plural)", "tamen"), ); ?>
