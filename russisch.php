@@ -1,1 +1,0 @@
-<?php $liste = array(array("er", "gehen"), array("rr", "schlafen"), 
