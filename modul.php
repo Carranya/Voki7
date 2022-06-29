@@ -1,0 +1,1 @@
+<?php $modul = array("japanisch"); ?>
